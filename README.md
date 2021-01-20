@@ -11,11 +11,11 @@ Bu proje , Retrofit, RXJava , Glide vb. teknolojiler kullanarak oluşturulmuştu
 
 # Çıktılar
 <p>
-![1](https://raw.githubusercontent.com/MirzaKutlu/Volkswagen-Golf-Series-Android/master/Screens/E1.png)
-![5](https://raw.githubusercontent.com/MirzaKutlu/Volkswagen-Golf-Series-Android/master/Screens/E3.png)
-![2](https://raw.githubusercontent.com/MirzaKutlu/Volkswagen-Golf-Series-Android/master/Screens/E1_intyok.png)
-![3](https://raw.githubusercontent.com/MirzaKutlu/Volkswagen-Golf-Series-Android/master/Screens/E2.png)
-![4](https://raw.githubusercontent.com/MirzaKutlu/Volkswagen-Golf-Series-Android/master/Screens/E2_cikis.png)
+<img height="350" src="https://raw.githubusercontent.com/MirzaKutlu/Volkswagen-Golf-Series-Android/master/Screens/E1.png">
+<img height="350" src="https://raw.githubusercontent.com/MirzaKutlu/Volkswagen-Golf-Series-Android/master/Screens/E3.png">
+<img height="350" src="https://raw.githubusercontent.com/MirzaKutlu/Volkswagen-Golf-Series-Android/master/Screens/E1_intyok.png">
+<img height="350" src="https://raw.githubusercontent.com/MirzaKutlu/Volkswagen-Golf-Series-Android/master/Screens/E2.png">
+<img height="350" src="https://raw.githubusercontent.com/MirzaKutlu/Volkswagen-Golf-Series-Android/master/Screens/E2_cikis.png">  
 </p>
 
 
