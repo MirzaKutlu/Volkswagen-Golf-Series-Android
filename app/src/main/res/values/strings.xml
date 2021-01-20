@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">H5190067_MahmutMirzaKutluFinal</string>
+
+
+    <string name="GoSettings">Ayarlara Git</string>
+    <string name="ExitApp">Çıkış</string>
+    <string name="ExitYes">Evet</string>
+    <string name="ExitNo">Hayır</string>
+    <string name="AlertTitle">İnternet Yok !</string>
+    <string name="AlertMessage">Lütfen Ayarlara Gidip İnternet Bağlantısını Kontrol Edin</string>
+
+    <string name="go_back_alert">Çıkmak İstiyor Musunuz?</string>
+    <string name="go_back_alert_message">Uygulamadan çıkmak üzeresiniz.</string>
+
+
+    <string name="hp">Beygir Gücü : </string>
+    <string name="year">Çıkış Yılı : </string>
+    <string name="weight">Ağırlık : </string>
+    <string name="engine">Motor Hacmi : </string>
+    <string name="gear">Vites : </string>
+
+    <string name="progress_dialog">Lütfen Bekleyiniz</string>
+
+</resources>

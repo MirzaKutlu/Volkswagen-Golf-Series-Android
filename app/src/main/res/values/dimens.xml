@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="layout_width_splashLogo">300dp</dimen>
+    <dimen name="layout_height_splashLogo">300dp</dimen>
+    <dimen name="layout_width_golf_banner">392dp</dimen>
+    <dimen name="layout_height_golf_banner">175dp</dimen>
+    <dimen name="layout_height_recycler_height">0dp</dimen>
+    <dimen name="layout_height_imageGolf_height">100dp</dimen>
+    <dimen name="layout_height_imageGolf_width">200dp</dimen>
+    <dimen name="txt_size_smaller">10sp</dimen>
+    <dimen name="txt_size_small">14sp</dimen>
+    <dimen name="txt_size_large">20sp</dimen>
+    <dimen name="txt_size_larger">30sp</dimen>
+    <dimen name="layout_margin_right_text">8dp</dimen>
+    <dimen name="layout_margin_left_text">8dp</dimen>
+    <dimen name="layout_margin_top_text">24dp</dimen>
+    <dimen name="layout_margin_text">30dp</dimen>
+    <dimen name="layout_margin">16dp</dimen>
+
+</resources>
